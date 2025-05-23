@@ -26,8 +26,8 @@ altair==5.5.0
 seaborn==0.13.2
 statsmodels==0.14.4
 
-# Utilities
+# Utilities - Updated pillow version for Python 3.13 compatibility
 tqdm==4.66.2
-pillow==10.3.0
+pillow==10.4.0  # Updated from 10.3.0
 ipykernel==6.29.5
 ipython==8.12.3
